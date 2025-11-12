@@ -66,11 +66,12 @@ data-warehouse-project/
 ├── datasets/                           # Source data files (CRM and ERP)
 │
 ├── docs/                               # Technical documentation
-│   ├── etl.drawio                      # ETL design and implementation patterns
-│   ├── data_architecture.drawio        # Architecture diagram
+│   ├── data_layers.pdf                 # ETL design and implementation patterns
+│   ├── data_architecture.png           # Architecture diagram
 │   ├── data_catalog.md                 # Data dictionary and metadata
-│   ├── data_flow.drawio                # Data flow documentation
-│   ├── data_models.drawio              # Star schema models
+│   ├── data_flow.png                   # Data flow documentation
+│   ├── data_integration.png            # Data source mapping diagram
+│   ├── data_models.png                 # Star schema models
 │   ├── naming-conventions.md           # Naming standards
 │
 ├── scripts/                            # SQL implementation scripts
