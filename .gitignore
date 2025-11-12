@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Passwords and secrets
+*.env
+.env
+
+# SQL Server database files
+*.mdf
+*.ldf
+*.ndf
+
+# Temporary files
+*.log
+*.bak
+*.tmp
+
+# IDE folders
+.vscode/
+.idea/
