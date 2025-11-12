@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+# sql-data-warehouse-project
 
 A comprehensive data warehousing solution showcasing end-to-end implementation from data architecture design to optimized analytical models. This project demonstrates professional-grade data engineering capabilities.
 
