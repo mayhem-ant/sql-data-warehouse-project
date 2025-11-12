@@ -55,7 +55,6 @@ This project implements a modern Medallion Architecture with **Bronze**, **Silve
 - Designed user-friendly dimensional model for business analytics
 - Optimized for analytical query performance
 
-For detailed requirements, see [docs/requirements.md](docs/requirements.md).
 
 ---
 
