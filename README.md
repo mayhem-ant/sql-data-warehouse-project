@@ -63,7 +63,7 @@ For detailed requirements, see [docs/requirements.md](docs/requirements.md).
 ```
 data-warehouse-project/
 │
-├── datasets/                           # Source data files (ERP and CRM)
+├── datasets/                           # Source data files (CRM and ERP)
 │
 ├── docs/                               # Technical documentation
 │   ├── etl.drawio                      # ETL design and implementation patterns
@@ -80,10 +80,9 @@ data-warehouse-project/
 │
 ├── tests/                              # Quality assurance scripts
 │
-├── README.md                           # Project documentation
-├── LICENSE                             # License information
 ├── .gitignore                          # Git ignore rules
-└── requirements.txt                    # Project dependencies
+├── LICENSE                             # License information
+├── README.md                           # Project documentation
 ```
 ---
 
